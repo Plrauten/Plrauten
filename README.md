@@ -2,4 +2,4 @@
 - 👀 I’m interested in cloud monitoring
 - 🌱 I’m currently learning Metrics, Traces, Logs & APM
 - 💞️ I’m looking to collaborate on monitoring solutions 
-- 📫 How to reach me via LinkedIn
+- 📫 How to reach me via LinkedIn (https://www.linkedin.com/in/paul-louis-rautenberg-054bb413a/)
